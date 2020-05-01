@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Валерий\Desktop\программы\7(4э)\7(4э)\Source.cpp(58,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Валерий\Desktop\программы\7(4э)\7(4э)\Source.cpp(60,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  7(4э).vcxproj -> C:\Users\Валерий\Desktop\программы\7(4э)\Debug\7(4э).exe

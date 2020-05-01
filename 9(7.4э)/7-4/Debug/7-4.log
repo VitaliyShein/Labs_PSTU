@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Валерий\Desktop\программы\9(7.4э)\7-4\Source.cpp(8,21): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Валерий\Desktop\программы\9(7.4э)\7-4\Source.cpp(31,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Валерий\Desktop\программы\9(7.4э)\7-4\Source.cpp(32,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Валерий\Desktop\программы\9(7.4э)\7-4\Source.cpp(34,10): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Валерий\Desktop\программы\9(7.4э)\7-4\Source.cpp(36,34): warning C4305: аргумент: усечение из "double" в "float"
+  7-4.vcxproj -> C:\Users\Валерий\Desktop\программы\9(7.4э)\Debug\7-4.exe

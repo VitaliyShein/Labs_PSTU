@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (23.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+c:\users\shein\desktop\учёба\программы\дист.обучение\23 — копия\23\source.cpp(9): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\shein\desktop\учёба\программы\дист.обучение\23 — копия\23\source.cpp(66): warning C4930: List<Money> one(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+c:\users\shein\desktop\учёба\программы\дист.обучение\23 — копия\23\list.h(65): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+c:\users\shein\desktop\учёба\программы\дист.обучение\23 — копия\23\list.h(65): warning C4715: List<float>::operator[]: значение возвращается не при всех путях выполнения
+c:\users\shein\desktop\учёба\программы\дист.обучение\23 — копия\23\list.h(65): warning C4715: List<double>::operator[]: значение возвращается не при всех путях выполнения
+  23.vcxproj -> C:\Users\Shein\Desktop\Учёба\Программы\Дист.обучение\23 — копия\Debug\24.exe

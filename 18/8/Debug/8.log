@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (8.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+c:\users\shein\desktop\учёба\программы\дист.обучение\8\8\crt.h(40): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\shein\desktop\учёба\программы\дист.обучение\8\8\crt.h(67): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\shein\desktop\учёба\программы\дист.обучение\8\8\source.cpp(6): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  8.vcxproj -> C:\Users\Shein\Desktop\Учёба\Программы\Дист.обучение\8\Debug\18.exe

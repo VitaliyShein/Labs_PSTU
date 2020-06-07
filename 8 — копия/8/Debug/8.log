@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\shein\desktop\учёба\программы\дист.обучение\8\8\source.cpp(88): warning C4715: delete_obj: значение возвращается не при всех путях выполнения
+c:\users\shein\desktop\учёба\программы\дист.обучение\8\8\source.cpp(103): warning C4715: add_obj: значение возвращается не при всех путях выполнения
+  8.vcxproj -> C:\Users\Shein\Desktop\Учёба\Программы\Дист.обучение\8\Debug\8.exe

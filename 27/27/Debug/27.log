@@ -1,0 +1,7 @@
+﻿  Money.cpp
+c:\users\shein\desktop\учёба\программы\дист.обучение\27\27\money.cpp(38): warning C4101: rez: неиспользованная локальная переменная
+c:\users\shein\desktop\учёба\программы\дист.обучение\27\27\money.cpp(50): warning C4101: rez: неиспользованная локальная переменная
+  Source.cpp
+c:\users\shein\desktop\учёба\программы\дист.обучение\27\27\source.cpp(9): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  27.vcxproj -> C:\Users\Shein\Desktop\Учёба\Программы\Дист.обучение\27\Debug\27.exe

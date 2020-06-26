@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\shein\desktop\учёба\calculator\calculator\myform.h(891): warning C4101: e1: неиспользованная локальная переменная
+c:\users\shein\desktop\учёба\calculator\calculator\myform.cpp(12): warning C4007: WinMain: должен быть "__stdcall"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  calculator.vcxproj -> C:\Users\Shein\Desktop\Учёба\calculator\Debug\calculator.exe
